@@ -1,0 +1,50 @@
+change the background color
+hello jarvis
+search
+red
+blue
+yellow
+aqua
+indigo
+green
+white
+black
+purple
+pink
+orange
+violet
+open notepad
+open cmd
+close cmd
+open twitter
+close yourself
+open google
+close notepad
+what time is it?
+who are you
+describe yourself
+what is today's date
+open microsoft word
+close microsoft word
+open powerpoint
+close powerpoint
+open excel
+close excel
+open vlc
+open video player
+start vlc
+start video player
+play
+pause
+forward
+backward
+fast
+forward
+slomo
+volume
+up
+volume
+down
+close vlc
+whats the weather outside
+whats the temperature

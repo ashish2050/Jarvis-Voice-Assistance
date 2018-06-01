@@ -1,0 +1,13 @@
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\voice.exe
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\voice.pdb
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\voice.xml
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.vbprojResolveAssemblyReference.cache
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.Form1.resources
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.Resources.resources
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.vbproj.GenerateResource.Cache
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.exe
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.xml
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\obj\Debug\voice.pdb
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\AK\Desktop\My VB.NET PROJECTS\voice\voice\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
